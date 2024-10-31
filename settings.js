@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==wa2hneDF0bvZVb2QVS3JVYiVnNfJ0UQNUWnZ3N6VXZ0BnTqRnUwYWbiZUdjI0ZhJ0ZFRmVpwd=31974734749',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `*Hello @name [ And @name @members Number of Members ] I am Alive Now !*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -19,15 +19,15 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority', 
   PREFIX: '.$&',
-  LANGUAGE: 'EN',
+  LANGUAGE: 'SI',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
   OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
-  WORK_TYPE: 'public',
+  OWNER_NUMBER: '94743747913',
+  SUDO: '94743747913',
+  WORK_TYPE: 'ptivate',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
